@@ -1,0 +1,20 @@
+Line	MessageNo	File Name
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F887 -DL -O11111114 -fo8 -N"E:\diploma\glcd_final\Glcd.mcppi" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"E:\diploma\glcd_final\" -SP"E:\diploma\glcd\" -SP"C:\libtestscratch\" -SP"E:\diploma\libtestscratch\" "Glcd.c" "ks0108.c" "ks0108-pic16.c" "graphic.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CStdlib.mcl" "__Lib_ADC_88X.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'E:\diploma\glcd'	 
+warning: 0	1501	Specified search path does not exist: 'E:\diploma\libtestscratch'	 
+diagnostics: 0	125	All files Preprocessed in 62 ms	 
+diagnostics: 0	121	Compilation Started	ks0108.h
+diagnostics: 252	122	Compiled Successfully	Glcd.c
+diagnostics: 0	121	Compilation Started	ks0108.h
+diagnostics: 92	122	Compiled Successfully	ks0108.c
+diagnostics: 0	121	Compilation Started	ks0108-pic16.c
+diagnostics: 127	122	Compiled Successfully	ks0108-pic16.c
+diagnostics: 0	121	Compilation Started	graphic.c
+diagnostics: 120	122	Compiled Successfully	graphic.c
+diagnostics: 0	126	All files Compiled in 344 ms	 
+hint: 0	1140	Used RAM (bytes): 149 (42%)  Free RAM (bytes): 203 (58%)	Used RAM (bytes): 149 (42%)  Free RAM (bytes): 203 (58%)
+hint: 0	1140	Used ROM (program words): 4789 (58%)  Free ROM (program words): 3403 (42%)	Used ROM (program words): 4789 (58%)  Free ROM (program words): 3403 (42%)
+diagnostics: 0	124	Project Linked Successfully	Glcd.mcppi
+diagnostics: 0	127	Linked in 375 ms	 
+diagnostics: 0	128	Project 'Glcd.mcppi' completed: 844 ms	 
+diagnostics: 0	103	Finished successfully: 06 Sep 2009, 22:14:38	Glcd.mcppi
