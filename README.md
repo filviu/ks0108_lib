@@ -18,10 +18,9 @@ do that, if not you should consult the EasyPIC5 manual.
 
 The project has everything you need:
 
-    * a small demo program that uses text and bitmaps so you can see how
-    the touchscreen, graphics, images and text work
-    * a font file
-    * a file to host your bitmap data
-    * graphic functions
-    * ks0108 functions
-    * microcontroller dependent functions.
+* a small demo program that uses text and bitmaps so you can see how the touchscreen, graphics, images and text work
+* a font file
+* a file to host your bitmap data
+* graphic functions
+* ks0108 functions
+* microcontroller dependent functions.
